@@ -1,0 +1,15 @@
+Canonical Livepatch服务
+管理实时内核修补
+您的kkoojjyy@163.com帐户的关键是：
+
+
+57bdf271f9de4bf5999507c23dfe5da1
+复制
+要在Ubuntu计算机上启用实时内核修补程序，请打开终端并输入：
+
+sudo snap install canonical-livepatch
+
+sudo canonical-livepatch enable 57bdf271f9de4bf5999507c23dfe5da1
+需要更多机器吗？访问我们的商店。
+
+使用其他帐户登录>
